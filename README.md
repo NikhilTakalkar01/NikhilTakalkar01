@@ -9,8 +9,6 @@
 
 - 🤝 I’m looking for help with **Flutter**
 
-- 👨‍💻 All of my projects are available at [index3.html](index3.html)
-
 - 💬 Ask me about **App Developer**
 
 - 📫 How to reach me **nikhiltakalkar7620@gmail.com**
