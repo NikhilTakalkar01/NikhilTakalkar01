@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Nikhil Takalkar</h1>
 <h3 align="center">A passionate App developer from India</h3>
 
@@ -10,13 +9,15 @@
 
 - 🤝 I’m looking for help with **Flutter**
 
+- 👨‍💻 All of my projects are available at [index3.html](index3.html)
+
 - 💬 Ask me about **App Developer**
 
 - 📫 How to reach me **nikhiltakalkar7620@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/nikhiltakalkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nikhiltakalkar" height="30" width="40" /></a>
+<a href="https://instagram.com/nikhiltakalkar_bari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nikhiltakalkar_bari" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
