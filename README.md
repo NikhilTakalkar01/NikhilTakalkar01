@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Flutter**
 
-- 💬 Ask me about **App Developer**
+- 💬 Ask me about **App Development**
 
 - 📫 How to reach me **nikhiltakalkar7620@gmail.com**
 
